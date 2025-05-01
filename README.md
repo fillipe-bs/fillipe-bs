@@ -1,7 +1,7 @@
 # Olá, eu sou o fillipe-bs, mas pode me chamar de Fill! 🤟🏻
-Atualmente sou Analista de Dados e Estudante de Análise e Desenvolvimento de Sistemas na UniAmérica. 💻  
+Atuo como Analista de Dados e estou finalizando minha formação em Análise e Desenvolvimento de Sistemas (ADS) pela UniAmérica. 💻  
 
-***Desbravando o universo Java 👀***
+***Desbravando Java 👀***
 
 ## Ferramentas que domino 🚀
 <div>
