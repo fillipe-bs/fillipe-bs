@@ -1,7 +1,7 @@
 # Olá, eu sou o Fill! 🤟🏻
 Formado em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela UniAmérica. 
 
-Direcionamento atual para Data Engineering.s. 💻  
+Direcionamento atual para Data Engineering. 💻  
 
 ## Ferramentas que domino
 <div>
