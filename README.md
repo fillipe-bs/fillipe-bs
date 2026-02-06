@@ -2,6 +2,7 @@
 Formado em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela UniAmérica. 
 
 📊 Analista de Dados com foco em soluções analíticas.
+
 💻 Aprimorando competências em Data Engineering, incluindo ETL, pipelines de dados e automação.
 
 ## Ferramentas que domino
