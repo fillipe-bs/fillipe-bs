@@ -1,7 +1,9 @@
 # Olá, eu sou o Fill! 🤟🏻
 Formado em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela UniAmérica. 
 
-Direcionamento atual para Data Engineering. 💻  
+Analista de Dados, com atuação atual em análise e visualização de dados. 📊 
+
+Em desenvolvimento para Data Engineering, construindo habilidades em pipelines, ETL e processamento de dados. 💻
 
 ## Ferramentas que domino
 <div>
