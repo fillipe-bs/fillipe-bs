@@ -9,7 +9,6 @@ Formado em Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistema
 <div>
   <img src="https://img.shields.io/badge/Power%20BI-FFF?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-FFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-FFF?style=for-the-badge" />
 </div>
 
 ## Conecte-se comigo
